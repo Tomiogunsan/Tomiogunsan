@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tomi
-- 👀 I’m interested in learning web development 
-- 🌱 I’m currently learning JavaScript 
+- 👀 A front-end web developer 
+- 🌱 I’m currently mastering React.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me tomiafolayan@gmail.com
 
