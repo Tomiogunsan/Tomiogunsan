@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tomi
 - 👀 A front-end developer 
-- 🌱 I’m currently learning typescript
+- 🌱 I’m currently learning React Native
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me tomiafolayan@gmail.com
 
