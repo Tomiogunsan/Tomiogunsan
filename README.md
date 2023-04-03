@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tomi
-- 👀 A front-end developer 
+- 👀 A Frontend Engineer 
 - 🌱 I’m currently learning React Native
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me tomiafolayan@gmail.com
